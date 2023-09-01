@@ -1,1 +1,4 @@
 This is my new page 5
+
+I add more information to this page
+Java is cool
